@@ -1,7 +1,6 @@
 # Monkey app
 Simple CNN classificator deploy by flask
 ## Instructions
-Before run the program ensure that you have a good lighting on hand
 
 ```shell
 git clone https://github.com/vanhry/Monkey-App
