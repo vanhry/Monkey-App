@@ -1,5 +1,5 @@
 # Monkey app
-Simple CNN classificator deploy by flask
+Simple CNN classifier deploy by flask
 ## Instructions
 
 ```shell
